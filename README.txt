@@ -10,11 +10,15 @@ Does a team actually perform better when their star player starts? This project 
 * **Data Processing:** Custom pipeline to merge Player Logs with Team Schedule (handling 380+ matches).
 * **Visualization:** Tableau (Dashboarding) & Matplotlib.
 
-## 📈 Results
-![Dashboard Analysis](dashboard.png)
-*Visualizing the Win Rate Difference (Starters vs. Absentees)*
+## 📊 Visualization
+Here is the final impact analysis dashboard generated from the data:
+
+![Win Rate Impact Chart](dashboard_screenshot.png)
+
+*Figure 1: Diverging bar chart showing the Win Rate Differential for top EPL scorers. Blue indicates positive impact; Orange indicates the team wins more often when the player is absent (often due to rotation in easier games).*
 
 ## 🚀 How to Run
 1. Install dependencies: `pip install soccerdata pandas matplotlib seaborn`
 2. Run scraper: `python scraper.py`
+
 3. Run analysis: `python analysis.py`
