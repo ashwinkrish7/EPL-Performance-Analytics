@@ -1,0 +1,381 @@
+date,player_name,team,result,xG,xg_conceded,Status
+12-08-2023,Alexander Isak,Newcastle Utd,W,3.3,0,Starter
+19-08-2023,Alexander Isak,Newcastle Utd,L,0.3,0,Starter
+27-08-2023,Alexander Isak,Newcastle Utd,L,2,0,Starter
+02-09-2023,Alexander Isak,Newcastle Utd,L,1.2,0,Starter
+16-09-2023,Alexander Isak,Newcastle Utd,W,1.4,0,Absent
+24-09-2023,Alexander Isak,Newcastle Utd,W,3.9,0,Sub
+30-09-2023,Alexander Isak,Newcastle Utd,W,3.1,0,Starter
+08-10-2023,Alexander Isak,Newcastle Utd,D,2,0,Starter
+21-10-2023,Alexander Isak,Newcastle Utd,W,2.4,0,Sub
+28-10-2023,Alexander Isak,Newcastle Utd,D,2.2,0,Absent
+04-11-2023,Alexander Isak,Newcastle Utd,W,1,0,Absent
+11-11-2023,Alexander Isak,Newcastle Utd,L,0.5,0,Absent
+25-11-2023,Alexander Isak,Newcastle Utd,W,2.4,0,Starter
+02-12-2023,Alexander Isak,Newcastle Utd,W,2.4,0,Starter
+07-12-2023,Alexander Isak,Newcastle Utd,L,1.5,0,Starter
+10-12-2023,Alexander Isak,Newcastle Utd,L,1.7,0,Starter
+16-12-2023,Alexander Isak,Newcastle Utd,W,3.5,0,Absent
+23-12-2023,Alexander Isak,Newcastle Utd,L,1.4,0,Starter
+26-12-2023,Alexander Isak,Newcastle Utd,L,2.4,0,Starter
+01-01-2024,Alexander Isak,Newcastle Utd,L,0.6,0,Starter
+13-01-2024,Alexander Isak,Newcastle Utd,L,1.3,0,Starter
+30-01-2024,Alexander Isak,Newcastle Utd,W,2.6,0,Sub
+03-02-2024,Alexander Isak,Newcastle Utd,D,2.3,0,Absent
+10-02-2024,Alexander Isak,Newcastle Utd,W,0.5,0,Absent
+17-02-2024,Alexander Isak,Newcastle Utd,D,2.2,0,Absent
+24-02-2024,Alexander Isak,Newcastle Utd,L,0.2,0,Starter
+02-03-2024,Alexander Isak,Newcastle Utd,W,2.1,0,Starter
+11-03-2024,Alexander Isak,Newcastle Utd,L,0.7,0,Starter
+30-03-2024,Alexander Isak,Newcastle Utd,W,4.1,0,Starter
+02-04-2024,Alexander Isak,Newcastle Utd,D,2.4,0,Starter
+06-04-2024,Alexander Isak,Newcastle Utd,W,1,0,Starter
+13-04-2024,Alexander Isak,Newcastle Utd,W,2.8,0,Starter
+24-04-2024,Alexander Isak,Newcastle Utd,L,0.4,0,Starter
+27-04-2024,Alexander Isak,Newcastle Utd,W,3.1,0,Starter
+04-05-2024,Alexander Isak,Newcastle Utd,W,3.4,0,Starter
+11-05-2024,Alexander Isak,Newcastle Utd,D,2.2,0,Starter
+15-05-2024,Alexander Isak,Newcastle Utd,L,2.2,0,Starter
+19-05-2024,Alexander Isak,Newcastle Utd,W,3.4,0,Starter
+12-08-2023,Bukayo Saka,Arsenal,W,0.8,0,Starter
+21-08-2023,Bukayo Saka,Arsenal,W,2,0,Starter
+26-08-2023,Bukayo Saka,Arsenal,D,3.2,0,Starter
+03-09-2023,Bukayo Saka,Arsenal,W,2.3,0,Starter
+17-09-2023,Bukayo Saka,Arsenal,W,1,0,Starter
+24-09-2023,Bukayo Saka,Arsenal,D,1.8,0,Starter
+30-09-2023,Bukayo Saka,Arsenal,W,3.4,0,Starter
+08-10-2023,Bukayo Saka,Arsenal,W,0.4,0,Absent
+21-10-2023,Bukayo Saka,Arsenal,D,1,0,Starter
+28-10-2023,Bukayo Saka,Arsenal,W,2.8,0,Starter
+04-11-2023,Bukayo Saka,Arsenal,L,0.6,0,Starter
+11-11-2023,Bukayo Saka,Arsenal,W,1.8,0,Starter
+25-11-2023,Bukayo Saka,Arsenal,W,1.6,0,Starter
+02-12-2023,Bukayo Saka,Arsenal,W,2.8,0,Starter
+05-12-2023,Bukayo Saka,Arsenal,W,2.2,0,Starter
+09-12-2023,Bukayo Saka,Arsenal,L,1.4,0,Starter
+17-12-2023,Bukayo Saka,Arsenal,W,2.3,0,Starter
+23-12-2023,Bukayo Saka,Arsenal,D,0.7,0,Starter
+28-12-2023,Bukayo Saka,Arsenal,L,2.7,0,Starter
+31-12-2023,Bukayo Saka,Arsenal,L,1.6,0,Starter
+20-01-2024,Bukayo Saka,Arsenal,W,3.3,0,Starter
+30-01-2024,Bukayo Saka,Arsenal,W,1.2,0,Starter
+04-02-2024,Bukayo Saka,Arsenal,W,3.5,0,Starter
+11-02-2024,Bukayo Saka,Arsenal,W,3.6,0,Starter
+17-02-2024,Bukayo Saka,Arsenal,W,2.3,0,Starter
+24-02-2024,Bukayo Saka,Arsenal,W,2.8,0,Starter
+04-03-2024,Bukayo Saka,Arsenal,W,2.3,0,Starter
+09-03-2024,Bukayo Saka,Arsenal,W,1.3,0,Starter
+31-03-2024,Bukayo Saka,Arsenal,D,0.7,0,Starter
+03-04-2024,Bukayo Saka,Arsenal,W,0.7,0,Absent
+06-04-2024,Bukayo Saka,Arsenal,W,3.4,0,Starter
+14-04-2024,Bukayo Saka,Arsenal,L,1.6,0,Starter
+20-04-2024,Bukayo Saka,Arsenal,W,1.2,0,Starter
+23-04-2024,Bukayo Saka,Arsenal,W,3.3,0,Starter
+28-04-2024,Bukayo Saka,Arsenal,W,1,0,Starter
+04-05-2024,Bukayo Saka,Arsenal,W,3.3,0,Starter
+12-05-2024,Bukayo Saka,Arsenal,W,1.5,0,Starter
+19-05-2024,Bukayo Saka,Arsenal,W,2.9,0,Absent
+13-08-2023,Cole Palmer,Chelsea,D,1.4,0,Absent
+20-08-2023,Cole Palmer,Chelsea,L,2.5,0,Absent
+25-08-2023,Cole Palmer,Chelsea,W,2.2,0,Absent
+02-09-2023,Cole Palmer,Chelsea,L,2.3,0,Sub
+17-09-2023,Cole Palmer,Chelsea,D,1.8,0,Sub
+24-09-2023,Cole Palmer,Chelsea,L,1.3,0,Sub
+02-10-2023,Cole Palmer,Chelsea,W,1.7,0,Starter
+07-10-2023,Cole Palmer,Chelsea,W,1.9,0,Starter
+21-10-2023,Cole Palmer,Chelsea,D,1.3,0,Starter
+28-10-2023,Cole Palmer,Chelsea,L,1.9,0,Starter
+06-11-2023,Cole Palmer,Chelsea,W,4.1,0,Starter
+12-11-2023,Cole Palmer,Chelsea,D,2.9,0,Starter
+25-11-2023,Cole Palmer,Chelsea,L,0.5,0,Starter
+03-12-2023,Cole Palmer,Chelsea,W,2.1,0,Sub
+06-12-2023,Cole Palmer,Chelsea,L,1.5,0,Starter
+10-12-2023,Cole Palmer,Chelsea,L,0.9,0,Starter
+16-12-2023,Cole Palmer,Chelsea,W,3.1,0,Starter
+24-12-2023,Cole Palmer,Chelsea,L,2,0,Starter
+27-12-2023,Cole Palmer,Chelsea,W,2.6,0,Absent
+30-12-2023,Cole Palmer,Chelsea,W,1.5,0,Starter
+13-01-2024,Cole Palmer,Chelsea,W,2.2,0,Starter
+31-01-2024,Cole Palmer,Chelsea,L,0.6,0,Starter
+04-02-2024,Cole Palmer,Chelsea,L,1.7,0,Starter
+12-02-2024,Cole Palmer,Chelsea,W,1.4,0,Starter
+17-02-2024,Cole Palmer,Chelsea,D,1.4,0,Starter
+02-03-2024,Cole Palmer,Chelsea,D,1.8,0,Starter
+11-03-2024,Cole Palmer,Chelsea,W,1.6,0,Starter
+30-03-2024,Cole Palmer,Chelsea,D,4.2,0,Starter
+04-04-2024,Cole Palmer,Chelsea,W,3,0,Starter
+07-04-2024,Cole Palmer,Chelsea,D,0.3,0,Starter
+15-04-2024,Cole Palmer,Chelsea,W,3.1,0,Starter
+23-04-2024,Cole Palmer,Chelsea,L,1.6,0,Absent
+27-04-2024,Cole Palmer,Chelsea,D,1.6,0,Starter
+02-05-2024,Cole Palmer,Chelsea,W,2.2,0,Starter
+05-05-2024,Cole Palmer,Chelsea,W,4.1,0,Starter
+11-05-2024,Cole Palmer,Chelsea,W,1.6,0,Starter
+15-05-2024,Cole Palmer,Chelsea,W,1.5,0,Starter
+19-05-2024,Cole Palmer,Chelsea,W,1.1,0,Starter
+12-08-2023,Dominic Solanke,Bournemouth,D,1.3,0,Starter
+19-08-2023,Dominic Solanke,Bournemouth,L,1.3,0,Starter
+26-08-2023,Dominic Solanke,Bournemouth,L,0.7,0,Starter
+02-09-2023,Dominic Solanke,Bournemouth,D,2.1,0,Starter
+17-09-2023,Dominic Solanke,Bournemouth,D,1,0,Starter
+24-09-2023,Dominic Solanke,Bournemouth,L,1.1,0,Starter
+30-09-2023,Dominic Solanke,Bournemouth,L,0.6,0,Starter
+07-10-2023,Dominic Solanke,Bournemouth,L,0.7,0,Starter
+21-10-2023,Dominic Solanke,Bournemouth,L,0.6,0,Starter
+28-10-2023,Dominic Solanke,Bournemouth,W,1.1,0,Starter
+04-11-2023,Dominic Solanke,Bournemouth,L,0.9,0,Starter
+11-11-2023,Dominic Solanke,Bournemouth,W,2.4,0,Starter
+25-11-2023,Dominic Solanke,Bournemouth,W,2.9,0,Starter
+03-12-2023,Dominic Solanke,Bournemouth,D,2,0,Starter
+06-12-2023,Dominic Solanke,Bournemouth,W,1.8,0,Starter
+09-12-2023,Dominic Solanke,Bournemouth,W,1.5,0,Starter
+23-12-2023,Dominic Solanke,Bournemouth,W,1.6,0,Starter
+26-12-2023,Dominic Solanke,Bournemouth,W,1.8,0,Starter
+31-12-2023,Dominic Solanke,Bournemouth,L,1.7,0,Starter
+21-01-2024,Dominic Solanke,Bournemouth,L,1.4,0,Starter
+01-02-2024,Dominic Solanke,Bournemouth,D,1.2,0,Starter
+04-02-2024,Dominic Solanke,Bournemouth,D,1.3,0,Starter
+10-02-2024,Dominic Solanke,Bournemouth,L,1.8,0,Starter
+17-02-2024,Dominic Solanke,Bournemouth,D,2.2,0,Starter
+24-02-2024,Dominic Solanke,Bournemouth,L,0.9,0,Starter
+03-03-2024,Dominic Solanke,Bournemouth,W,1.1,0,Starter
+09-03-2024,Dominic Solanke,Bournemouth,D,3.3,0,Starter
+13-03-2024,Dominic Solanke,Bournemouth,W,2.3,0,Starter
+30-03-2024,Dominic Solanke,Bournemouth,W,1.3,0,Starter
+02-04-2024,Dominic Solanke,Bournemouth,W,1.1,0,Starter
+06-04-2024,Dominic Solanke,Bournemouth,L,0.4,0,Starter
+13-04-2024,Dominic Solanke,Bournemouth,D,1.6,0,Starter
+21-04-2024,Dominic Solanke,Bournemouth,L,1.8,0,Starter
+24-04-2024,Dominic Solanke,Bournemouth,W,1.9,0,Starter
+28-04-2024,Dominic Solanke,Bournemouth,W,1.9,0,Starter
+04-05-2024,Dominic Solanke,Bournemouth,L,0.5,0,Starter
+11-05-2024,Dominic Solanke,Bournemouth,L,0.7,0,Starter
+19-05-2024,Dominic Solanke,Bournemouth,L,2.2,0,Sub
+11-08-2023,Erling Haaland,Manchester City,W,1.9,0,Starter
+19-08-2023,Erling Haaland,Manchester City,W,1,0,Starter
+27-08-2023,Erling Haaland,Manchester City,W,3.5,0,Starter
+02-09-2023,Erling Haaland,Manchester City,W,2.2,0,Starter
+16-09-2023,Erling Haaland,Manchester City,W,3.6,0,Starter
+23-09-2023,Erling Haaland,Manchester City,W,1.3,0,Starter
+30-09-2023,Erling Haaland,Manchester City,L,0.9,0,Starter
+08-10-2023,Erling Haaland,Manchester City,L,0.5,0,Starter
+21-10-2023,Erling Haaland,Manchester City,W,0.8,0,Starter
+29-10-2023,Erling Haaland,Manchester City,W,4,0,Starter
+04-11-2023,Erling Haaland,Manchester City,W,1.9,0,Starter
+12-11-2023,Erling Haaland,Manchester City,D,2.9,0,Starter
+25-11-2023,Erling Haaland,Manchester City,D,1.3,0,Starter
+03-12-2023,Erling Haaland,Manchester City,D,2.6,0,Starter
+06-12-2023,Erling Haaland,Manchester City,L,0.6,0,Starter
+10-12-2023,Erling Haaland,Manchester City,W,1.6,0,Absent
+16-12-2023,Erling Haaland,Manchester City,D,1.6,0,Absent
+27-12-2023,Erling Haaland,Manchester City,W,2.4,0,Absent
+30-12-2023,Erling Haaland,Manchester City,W,2.2,0,Absent
+13-01-2024,Erling Haaland,Manchester City,W,3,0,Absent
+31-01-2024,Erling Haaland,Manchester City,W,1.7,0,Sub
+05-02-2024,Erling Haaland,Manchester City,W,2.1,0,Starter
+10-02-2024,Erling Haaland,Manchester City,W,1.6,0,Starter
+17-02-2024,Erling Haaland,Manchester City,D,2.6,0,Starter
+20-02-2024,Erling Haaland,Manchester City,W,2.3,0,Starter
+24-02-2024,Erling Haaland,Manchester City,W,1.6,0,Starter
+03-03-2024,Erling Haaland,Manchester City,W,3.3,0,Starter
+10-03-2024,Erling Haaland,Manchester City,D,1.6,0,Starter
+31-03-2024,Erling Haaland,Manchester City,D,1,0,Starter
+03-04-2024,Erling Haaland,Manchester City,W,3.4,0,Absent
+06-04-2024,Erling Haaland,Manchester City,W,1.9,0,Starter
+13-04-2024,Erling Haaland,Manchester City,W,4.2,0,Starter
+25-04-2024,Erling Haaland,Manchester City,W,1.4,0,Absent
+28-04-2024,Erling Haaland,Manchester City,W,0.9,0,Sub
+04-05-2024,Erling Haaland,Manchester City,W,3.7,0,Starter
+11-05-2024,Erling Haaland,Manchester City,W,3.2,0,Starter
+14-05-2024,Erling Haaland,Manchester City,W,2.4,0,Starter
+19-05-2024,Erling Haaland,Manchester City,W,1.9,0,Starter
+12-08-2023,Jarrod Bowen,West Ham,D,1.1,0,Starter
+20-08-2023,Jarrod Bowen,West Ham,W,1.8,0,Starter
+26-08-2023,Jarrod Bowen,West Ham,W,3,0,Starter
+01-09-2023,Jarrod Bowen,West Ham,W,1,0,Starter
+16-09-2023,Jarrod Bowen,West Ham,L,0.9,0,Starter
+24-09-2023,Jarrod Bowen,West Ham,L,1.1,0,Starter
+30-09-2023,Jarrod Bowen,West Ham,W,2.1,0,Starter
+08-10-2023,Jarrod Bowen,West Ham,D,1.2,0,Starter
+22-10-2023,Jarrod Bowen,West Ham,L,1.1,0,Starter
+29-10-2023,Jarrod Bowen,West Ham,L,0.7,0,Starter
+04-11-2023,Jarrod Bowen,West Ham,L,1.8,0,Starter
+12-11-2023,Jarrod Bowen,West Ham,W,1.8,0,Starter
+25-11-2023,Jarrod Bowen,West Ham,W,0.9,0,Absent
+03-12-2023,Jarrod Bowen,West Ham,D,1.1,0,Starter
+07-12-2023,Jarrod Bowen,West Ham,W,2.2,0,Starter
+10-12-2023,Jarrod Bowen,West Ham,L,1.3,0,Starter
+17-12-2023,Jarrod Bowen,West Ham,W,1.1,0,Starter
+23-12-2023,Jarrod Bowen,West Ham,W,1.2,0,Starter
+28-12-2023,Jarrod Bowen,West Ham,W,1.4,0,Starter
+02-01-2024,Jarrod Bowen,West Ham,D,0.7,0,Starter
+21-01-2024,Jarrod Bowen,West Ham,D,2.3,0,Starter
+01-02-2024,Jarrod Bowen,West Ham,D,1.4,0,Starter
+04-02-2024,Jarrod Bowen,West Ham,L,1.4,0,Starter
+11-02-2024,Jarrod Bowen,West Ham,L,0.2,0,Starter
+17-02-2024,Jarrod Bowen,West Ham,L,0.5,0,Starter
+26-02-2024,Jarrod Bowen,West Ham,W,1.7,0,Starter
+02-03-2024,Jarrod Bowen,West Ham,W,1.9,0,Starter
+10-03-2024,Jarrod Bowen,West Ham,D,2.1,0,Starter
+17-03-2024,Jarrod Bowen,West Ham,D,2,0,Starter
+30-03-2024,Jarrod Bowen,West Ham,L,1.4,0,Starter
+02-04-2024,Jarrod Bowen,West Ham,D,1.5,0,Starter
+06-04-2024,Jarrod Bowen,West Ham,W,1.2,0,Starter
+14-04-2024,Jarrod Bowen,West Ham,L,0.9,0,Absent
+21-04-2024,Jarrod Bowen,West Ham,L,1.3,0,Absent
+27-04-2024,Jarrod Bowen,West Ham,D,0.7,0,Starter
+05-05-2024,Jarrod Bowen,West Ham,L,0.9,0,Starter
+11-05-2024,Jarrod Bowen,West Ham,W,3.2,0,Starter
+19-05-2024,Jarrod Bowen,West Ham,L,0.4,0,Absent
+13-08-2023,Mohamed Salah,Liverpool,D,1.3,0,Starter
+19-08-2023,Mohamed Salah,Liverpool,W,3,0,Starter
+27-08-2023,Mohamed Salah,Liverpool,W,0.9,0,Starter
+03-09-2023,Mohamed Salah,Liverpool,W,2.5,0,Starter
+16-09-2023,Mohamed Salah,Liverpool,W,2.5,0,Starter
+24-09-2023,Mohamed Salah,Liverpool,W,3,0,Starter
+30-09-2023,Mohamed Salah,Liverpool,L,1.3,0,Starter
+08-10-2023,Mohamed Salah,Liverpool,D,2.3,0,Starter
+21-10-2023,Mohamed Salah,Liverpool,W,2.2,0,Starter
+29-10-2023,Mohamed Salah,Liverpool,W,3.2,0,Starter
+05-11-2023,Mohamed Salah,Liverpool,D,2.6,0,Starter
+12-11-2023,Mohamed Salah,Liverpool,W,1.7,0,Starter
+25-11-2023,Mohamed Salah,Liverpool,D,0.6,0,Starter
+03-12-2023,Mohamed Salah,Liverpool,W,2.1,0,Starter
+06-12-2023,Mohamed Salah,Liverpool,W,1.7,0,Starter
+09-12-2023,Mohamed Salah,Liverpool,W,1.2,0,Starter
+17-12-2023,Mohamed Salah,Liverpool,D,2.3,0,Starter
+23-12-2023,Mohamed Salah,Liverpool,D,1,0,Starter
+26-12-2023,Mohamed Salah,Liverpool,W,1.8,0,Starter
+01-01-2024,Mohamed Salah,Liverpool,W,7,0,Starter
+21-01-2024,Mohamed Salah,Liverpool,W,1.5,0,Absent
+31-01-2024,Mohamed Salah,Liverpool,W,2.9,0,Absent
+04-02-2024,Mohamed Salah,Liverpool,L,0.4,0,Absent
+10-02-2024,Mohamed Salah,Liverpool,W,2.8,0,Absent
+17-02-2024,Mohamed Salah,Liverpool,W,2.8,0,Starter
+21-02-2024,Mohamed Salah,Liverpool,W,3.3,0,Absent
+02-03-2024,Mohamed Salah,Liverpool,W,2,0,Absent
+10-03-2024,Mohamed Salah,Liverpool,D,2.7,0,Sub
+31-03-2024,Mohamed Salah,Liverpool,W,2.8,0,Starter
+04-04-2024,Mohamed Salah,Liverpool,W,1.8,0,Starter
+07-04-2024,Mohamed Salah,Liverpool,D,3.6,0,Starter
+14-04-2024,Mohamed Salah,Liverpool,L,2.7,0,Starter
+21-04-2024,Mohamed Salah,Liverpool,W,1,0,Sub
+24-04-2024,Mohamed Salah,Liverpool,L,2.1,0,Starter
+27-04-2024,Mohamed Salah,Liverpool,D,1.7,0,Sub
+05-05-2024,Mohamed Salah,Liverpool,W,3.3,0,Starter
+13-05-2024,Mohamed Salah,Liverpool,D,1.7,0,Starter
+19-05-2024,Mohamed Salah,Liverpool,W,4.5,0,Starter
+12-08-2023,Ollie Watkins,Aston Villa,L,1.8,0,Starter
+20-08-2023,Ollie Watkins,Aston Villa,W,2.9,0,Starter
+27-08-2023,Ollie Watkins,Aston Villa,W,2.5,0,Starter
+03-09-2023,Ollie Watkins,Aston Villa,L,0.7,0,Starter
+16-09-2023,Ollie Watkins,Aston Villa,W,3,0,Starter
+24-09-2023,Ollie Watkins,Aston Villa,W,1,0,Starter
+30-09-2023,Ollie Watkins,Aston Villa,W,1.6,0,Starter
+08-10-2023,Ollie Watkins,Aston Villa,D,1.6,0,Starter
+22-10-2023,Ollie Watkins,Aston Villa,W,1.9,0,Starter
+29-10-2023,Ollie Watkins,Aston Villa,W,2.3,0,Starter
+05-11-2023,Ollie Watkins,Aston Villa,L,1.2,0,Starter
+12-11-2023,Ollie Watkins,Aston Villa,W,3,0,Starter
+26-11-2023,Ollie Watkins,Aston Villa,W,1.7,0,Starter
+03-12-2023,Ollie Watkins,Aston Villa,D,0.7,0,Starter
+06-12-2023,Ollie Watkins,Aston Villa,W,2.3,0,Starter
+09-12-2023,Ollie Watkins,Aston Villa,W,0.6,0,Starter
+17-12-2023,Ollie Watkins,Aston Villa,W,1.4,0,Starter
+22-12-2023,Ollie Watkins,Aston Villa,D,0.9,0,Starter
+26-12-2023,Ollie Watkins,Aston Villa,L,1.7,0,Starter
+30-12-2023,Ollie Watkins,Aston Villa,W,3.2,0,Starter
+14-01-2024,Ollie Watkins,Aston Villa,D,1.2,0,Starter
+30-01-2024,Ollie Watkins,Aston Villa,L,1.4,0,Starter
+03-02-2024,Ollie Watkins,Aston Villa,W,2.2,0,Starter
+11-02-2024,Ollie Watkins,Aston Villa,L,2.4,0,Starter
+17-02-2024,Ollie Watkins,Aston Villa,W,1.5,0,Starter
+24-02-2024,Ollie Watkins,Aston Villa,W,3.6,0,Starter
+02-03-2024,Ollie Watkins,Aston Villa,W,1.9,0,Starter
+10-03-2024,Ollie Watkins,Aston Villa,L,0.8,0,Starter
+17-03-2024,Ollie Watkins,Aston Villa,D,0.7,0,Starter
+30-03-2024,Ollie Watkins,Aston Villa,W,1,0,Starter
+03-04-2024,Ollie Watkins,Aston Villa,L,0.8,0,Absent
+06-04-2024,Ollie Watkins,Aston Villa,D,1.5,0,Starter
+14-04-2024,Ollie Watkins,Aston Villa,W,0.9,0,Starter
+21-04-2024,Ollie Watkins,Aston Villa,W,2.4,0,Starter
+27-04-2024,Ollie Watkins,Aston Villa,D,1.1,0,Starter
+05-05-2024,Ollie Watkins,Aston Villa,L,0.1,0,Starter
+13-05-2024,Ollie Watkins,Aston Villa,D,3.1,0,Starter
+19-05-2024,Ollie Watkins,Aston Villa,L,0.9,0,Starter
+11-08-2023,Phil Foden,Manchester City,W,1.9,0,Starter
+19-08-2023,Phil Foden,Manchester City,W,1,0,Starter
+27-08-2023,Phil Foden,Manchester City,W,3.5,0,Sub
+02-09-2023,Phil Foden,Manchester City,W,2.2,0,Starter
+16-09-2023,Phil Foden,Manchester City,W,3.6,0,Starter
+23-09-2023,Phil Foden,Manchester City,W,1.3,0,Starter
+30-09-2023,Phil Foden,Manchester City,L,0.9,0,Starter
+08-10-2023,Phil Foden,Manchester City,L,0.5,0,Starter
+21-10-2023,Phil Foden,Manchester City,W,0.8,0,Starter
+29-10-2023,Phil Foden,Manchester City,W,4,0,Starter
+04-11-2023,Phil Foden,Manchester City,W,1.9,0,Starter
+12-11-2023,Phil Foden,Manchester City,D,2.9,0,Starter
+25-11-2023,Phil Foden,Manchester City,D,1.3,0,Starter
+03-12-2023,Phil Foden,Manchester City,D,2.6,0,Starter
+06-12-2023,Phil Foden,Manchester City,L,0.6,0,Starter
+10-12-2023,Phil Foden,Manchester City,W,1.6,0,Starter
+16-12-2023,Phil Foden,Manchester City,D,1.6,0,Starter
+27-12-2023,Phil Foden,Manchester City,W,2.4,0,Starter
+30-12-2023,Phil Foden,Manchester City,W,2.2,0,Starter
+13-01-2024,Phil Foden,Manchester City,W,3,0,Starter
+31-01-2024,Phil Foden,Manchester City,W,1.7,0,Starter
+05-02-2024,Phil Foden,Manchester City,W,2.1,0,Starter
+10-02-2024,Phil Foden,Manchester City,W,1.6,0,Starter
+17-02-2024,Phil Foden,Manchester City,D,2.6,0,Starter
+20-02-2024,Phil Foden,Manchester City,W,2.3,0,Starter
+24-02-2024,Phil Foden,Manchester City,W,1.6,0,Starter
+03-03-2024,Phil Foden,Manchester City,W,3.3,0,Starter
+10-03-2024,Phil Foden,Manchester City,D,1.6,0,Starter
+31-03-2024,Phil Foden,Manchester City,D,1,0,Starter
+03-04-2024,Phil Foden,Manchester City,W,3.4,0,Starter
+06-04-2024,Phil Foden,Manchester City,W,1.9,0,Absent
+13-04-2024,Phil Foden,Manchester City,W,4.2,0,Absent
+25-04-2024,Phil Foden,Manchester City,W,1.4,0,Starter
+28-04-2024,Phil Foden,Manchester City,W,0.9,0,Absent
+04-05-2024,Phil Foden,Manchester City,W,3.7,0,Starter
+11-05-2024,Phil Foden,Manchester City,W,3.2,0,Starter
+14-05-2024,Phil Foden,Manchester City,W,2.4,0,Starter
+19-05-2024,Phil Foden,Manchester City,W,1.9,0,Starter
+13-08-2023,Son Heung-min,Tottenham,D,1.3,0,Starter
+19-08-2023,Son Heung-min,Tottenham,W,1.7,0,Starter
+26-08-2023,Son Heung-min,Tottenham,W,2.1,0,Starter
+02-09-2023,Son Heung-min,Tottenham,W,2.2,0,Starter
+16-09-2023,Son Heung-min,Tottenham,W,2.1,0,Starter
+24-09-2023,Son Heung-min,Tottenham,D,1.4,0,Starter
+30-09-2023,Son Heung-min,Tottenham,W,2.2,0,Starter
+07-10-2023,Son Heung-min,Tottenham,W,1.9,0,Starter
+23-10-2023,Son Heung-min,Tottenham,W,1.5,0,Starter
+27-10-2023,Son Heung-min,Tottenham,W,1.1,0,Starter
+06-11-2023,Son Heung-min,Tottenham,L,0.9,0,Starter
+11-11-2023,Son Heung-min,Tottenham,L,0.7,0,Starter
+26-11-2023,Son Heung-min,Tottenham,L,2.3,0,Starter
+03-12-2023,Son Heung-min,Tottenham,D,0.5,0,Starter
+07-12-2023,Son Heung-min,Tottenham,L,1.8,0,Starter
+10-12-2023,Son Heung-min,Tottenham,W,3.8,0,Starter
+15-12-2023,Son Heung-min,Tottenham,W,1.5,0,Starter
+23-12-2023,Son Heung-min,Tottenham,W,1.5,0,Starter
+28-12-2023,Son Heung-min,Tottenham,L,2.3,0,Starter
+31-12-2023,Son Heung-min,Tottenham,W,2.3,0,Starter
+14-01-2024,Son Heung-min,Tottenham,D,1.2,0,Absent
+31-01-2024,Son Heung-min,Tottenham,W,2.9,0,Absent
+03-02-2024,Son Heung-min,Tottenham,D,1,0,Absent
+10-02-2024,Son Heung-min,Tottenham,W,1.6,0,Sub
+17-02-2024,Son Heung-min,Tottenham,L,1.6,0,Starter
+02-03-2024,Son Heung-min,Tottenham,W,1.9,0,Starter
+10-03-2024,Son Heung-min,Tottenham,W,1.5,0,Starter
+16-03-2024,Son Heung-min,Tottenham,L,2.4,0,Starter
+30-03-2024,Son Heung-min,Tottenham,W,2.9,0,Starter
+02-04-2024,Son Heung-min,Tottenham,D,1,0,Starter
+07-04-2024,Son Heung-min,Tottenham,W,1.5,0,Starter
+13-04-2024,Son Heung-min,Tottenham,L,0.8,0,Starter
+28-04-2024,Son Heung-min,Tottenham,L,2.3,0,Starter
+02-05-2024,Son Heung-min,Tottenham,L,1.6,0,Starter
+05-05-2024,Son Heung-min,Tottenham,L,1.2,0,Starter
+11-05-2024,Son Heung-min,Tottenham,W,2.7,0,Starter
+14-05-2024,Son Heung-min,Tottenham,L,1.7,0,Starter
+19-05-2024,Son Heung-min,Tottenham,W,3.1,0,Starter
