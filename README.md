@@ -19,3 +19,4 @@ Does a team actually perform better when their star player starts? This project 
 2. Run scraper: `python scraper.py`
 3. Run analysis: `python analysis.py`
 
+
