@@ -13,7 +13,7 @@ Does a team actually perform better when their star player starts? This project 
 ## 📊 Visualization
 Here is the final impact analysis dashboard generated from the data:
 
-![Win Rate Impact Chart](dashboard_screenshot.png)
+![Win Rate Impact Chart](Dashboard.png)
 
 *Figure 1: Diverging bar chart showing the Win Rate Differential for top EPL scorers. Blue indicates positive impact; Orange indicates the team wins more often when the player is absent (often due to rotation in easier games).*
 
@@ -22,3 +22,4 @@ Here is the final impact analysis dashboard generated from the data:
 2. Run scraper: `python scraper.py`
 
 3. Run analysis: `python analysis.py`
+
