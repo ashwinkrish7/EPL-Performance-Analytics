@@ -11,10 +11,11 @@ Does a team actually perform better when their star player starts? This project 
 * **Visualization:** Tableau (Dashboarding) & Matplotlib.
 
 ## 📈 Results
-![Dashboard Analysis](dashboard.png)
+![Dashboard Analysis](Dashboard.png)
 *Visualizing the Win Rate Difference (Starters vs. Absentees)*
 
 ## 🚀 How to Run
 1. Install dependencies: `pip install soccerdata pandas matplotlib seaborn`
 2. Run scraper: `python scraper.py`
 3. Run analysis: `python analysis.py`
+
