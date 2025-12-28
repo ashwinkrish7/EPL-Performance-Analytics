@@ -1,7 +1,7 @@
 # ⚽ EPL Star Player Impact Analysis (2023-2024)
 
 ## 📊 Project Overview
-Does a team actually perform better when their star player starts? This project scrapes data for the 2023/24 English Premier League season to quantify the "Win Rate Differential" of Top 10 attackers (e.g., Haaland, Salah, Palmer).
+Does a team actually perform better when their star player starts? This project scrapes data for the 2023/24 English Premier League season to quantify the "Win Rate Differential" of Top 10 players based on their G+A contributions(e.g., Haaland, Salah, Palmer).
 
 **Key Finding:** Ollie Watkins (Aston Villa) had the highest impact (+54% Win Rate Increase), while Man City stars showed negative differentials due to squad rotation in easier fixtures.
 
@@ -18,5 +18,6 @@ Does a team actually perform better when their star player starts? This project 
 1. Install dependencies: `pip install soccerdata pandas matplotlib seaborn`
 2. Run scraper: `python scraper.py`
 3. Run analysis: `python analysis.py`
+
 
 
